@@ -23,7 +23,7 @@ class GoalNavigator(Node):
 
         self.current_position = (0.0, 0.0)
         self.current_orientation = 0.0
-        self.target_positions = [(5.0, 5.0), (4.0, -4.0)]  # Lista de objetivos
+        self.target_positions = [(5.0, 4.0), (4.0, -4.0)]  # Lista de objetivos
         self.current_target_index = 0
         
         self.closest_distance = float('inf')
