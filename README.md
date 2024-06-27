@@ -31,7 +31,7 @@ A basic navigation algorithm is implemented in this repository. The simulated en
 
 ## Usage
 
-After setting up the environment, you can run the main node of this package using:
+Run the navigation algorithm:
 ```sh
 ros2 launch robot_stage robot.launch.py
   ```
