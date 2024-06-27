@@ -34,7 +34,7 @@ A basic navigation algorithm is implemented in this repository. The simulated en
 After setting up the environment, you can run the main node of this package using:
 ```sh
 ros2 launch robot_stage robot.launch.py
-
+  ```
 ## Video
 
-Implementation of a basic navigation algorithm (link).
+Implementation of a basic navigation algorithm [(link)]https://github.com/tuw-robotics/stage_ros2) .
