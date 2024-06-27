@@ -37,4 +37,4 @@ ros2 launch robot_stage robot.launch.py
   ```
 ## Video
 
-Implementation of a basic navigation algorithm ([link]https://github.com/tuw-robotics/stage_ros2)).
+Implementation of a basic navigation algorithm ([link](https://github.com/tuw-robotics/stage_ros2)).
