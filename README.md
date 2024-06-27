@@ -2,8 +2,6 @@
 ## Description
 A basic navigation algorithm is implemented in this repository. The simulated environment can be downloaded in a [tuw-robotics](https://github.com/tuw-robotics/stage_ros2) repository.
 
-## Installation
-
 ### Prerequisites
 - ROS2 Humble Hawksbill.
 - [stage_ros2](https://github.com/tuw-robotics/stage_ros2) package. 
