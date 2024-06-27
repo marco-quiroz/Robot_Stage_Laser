@@ -10,7 +10,7 @@ A basic navigation algorithm is implemented in this repository. The simulated en
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/Gardiy/Laser-Stage.git
+    git clone https://github.com/marco-quiroz/Robot_Stage_Laser.git
     cd nombre_del_repositorio
     ```
 
